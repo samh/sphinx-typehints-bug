@@ -11,6 +11,9 @@ Welcome to Sphinx Typehints Bug's documentation!
    :caption: Contents:
 
 
+.. autoclass:: signaltest.Foo
+    :members:
+
 
 Indices and tables
 ==================
